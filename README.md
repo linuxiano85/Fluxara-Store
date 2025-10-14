@@ -264,8 +264,8 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 Dual-licensed under MIT or Apache-2.0, at your option.
 
-- MIT License: [LICENSE-MIT](LICENSE) or http://opensource.org/licenses/MIT
-- Apache License 2.0: [LICENSE-APACHE](LICENSE) or http://www.apache.org/licenses/LICENSE-2.0
+- MIT License: [LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT
+- Apache License 2.0: [LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0
 
 ## Acknowledgments
 
