@@ -1,0 +1,15 @@
+[package]
+name = "fluxara-daemon"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+fluxara-core = { path = "../fluxara-core" }
+fluxara-provider-flatpak = { path = "../fluxara-provider-flatpak" }
+anyhow = { workspace = true }
+tokio = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }

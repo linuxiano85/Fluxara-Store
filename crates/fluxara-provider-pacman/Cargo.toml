@@ -1,0 +1,13 @@
+[package]
+name = "fluxara-provider-pacman"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+fluxara-core = { path = "../fluxara-core" }
+anyhow = { workspace = true }
+async-trait = "0.1"
+tokio = { workspace = true }
