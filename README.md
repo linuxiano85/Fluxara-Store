@@ -1,4 +1,4 @@
-# Fluxara Store
+## Fluxara Store
 
 **Universal Linux Package Manager with GTK4/libadwaita UI**
 
