@@ -1,0 +1,29 @@
+# Fluxara Store Configuration
+# This file will be automatically created at ~/.config/fluxara/config.toml
+# You can also edit it from the Settings tab in the UI
+
+[ui]
+# Show system tray icon for background updates
+tray_enabled = true
+
+[repos]
+[repos.flathub]
+# Enable Flathub beta repository (can be disabled in Settings)
+beta_enabled = true
+
+[repos.aur]
+# Enable AUR support (auto-detected for Arch/Manjaro)
+# Set to false to disable even on Arch-based systems
+enabled = false
+
+[security]
+# Package conversion safety policy:
+# - "safe": Block kernel, drivers, bootloader, system packages (recommended)
+# - "permissive": Allow more conversions with warnings
+# - "strict": Block all conversions
+conversion_policy = "safe"
+
+[telemetry]
+# Anonymous usage statistics (opt-in only)
+# When enabled, sends anonymous data to help improve Fluxara Store
+enabled = false

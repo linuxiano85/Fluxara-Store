@@ -1,0 +1,10 @@
+[package]
+name = "fluxara-polkit-agent"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+anyhow = { workspace = true }
